@@ -1,0 +1,61 @@
+
+html{
+    background: url('https://wallpapercave.com/wp/wp7413285.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#tft{
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+}
+.khaosatrank{
+    color: white;
+    font-size: 20px;
+    padding: 0 0 0 200px;
+}
+.doihinhkalista{
+    color: white;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding: 0 0 0 200px;
+}
+.hihi {
+    color: white;
+    font-size: 18px;
+    padding: 0 0 0 200px;
+}
+.danhsachtuong{
+    color: white;
+    font-size: 20px;
+    padding: 0 0 0 200px;
+}
+.hieuung{
+    color: white;
+    font-size: 18px;
+    padding: 0 0 0 200px;
+}
+.chitiet{
+    color: white;
+    padding: 0 0 0 250px;
+}
+.doihinh{
+    color: white;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding: 0 0 0 200px;
+}
+.keyword{
+    color: white;
+    font-size: 18px;
+    padding: 0 0 0 200px;
+}
+.admin{
+    font-size: 25px;
+    padding: 0 0 0 200px;
+}
